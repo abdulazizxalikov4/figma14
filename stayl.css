@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header .conatiner .row .col h1{
+    font-family: initial;
+}
+
+.sec-1 .card .card-img-overlay h1{
+    font-size: 120px;
+    color: #AEE8FB;
+}
+
+.sec-2 .conatiner .row .col-6 h2 {
+    font-size: 44px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sec-3 .conatiner .row{
+    background: #F3E9E2;
+}
+
+.sec-3 .conatiner .row .col h1 {
+    font-size: 70px;
+}
+
+.sec-4 .container .row .blu {
+    background: #AEE8FB;
+    border-radius: 10px;
+}
+
+.sec-4 .container .row .red {
+    background: #F3E9E2;
+    border-radius: 10px;
+}
